@@ -5,5 +5,3 @@
 *.vcxproj.user
 *.dll
 !/LucidGloves/lucidgloves/bin/win64/DLL GOES HERE.txt
-lucidgloves-cppcheck-build-dir
-LucidGloves/lucidgloves.cppcheck
